@@ -1,0 +1,16 @@
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\obj\Debug\net5.0\Aula_semana_10.csprojAssemblyReference.cache
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\obj\Debug\net5.0\Aula_semana_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\obj\Debug\net5.0\Aula_semana_10.AssemblyInfoInputs.cache
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\obj\Debug\net5.0\Aula_semana_10.AssemblyInfo.cs
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\obj\Debug\net5.0\Aula_semana_10.csproj.CoreCompileInputs.cache
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\bin\Debug\net5.0\Aula_semana_10.exe
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\bin\Debug\net5.0\Aula_semana_10.deps.json
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\bin\Debug\net5.0\Aula_semana_10.runtimeconfig.json
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\bin\Debug\net5.0\Aula_semana_10.runtimeconfig.dev.json
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\bin\Debug\net5.0\Aula_semana_10.dll
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\bin\Debug\net5.0\ref\Aula_semana_10.dll
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\bin\Debug\net5.0\Aula_semana_10.pdb
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\obj\Debug\net5.0\Aula_semana_10.dll
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\obj\Debug\net5.0\ref\Aula_semana_10.dll
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\obj\Debug\net5.0\Aula_semana_10.pdb
+C:\Users\quatr\OneDrive\Documentos\Aula_semana_10\obj\Debug\net5.0\Aula_semana_10.genruntimeconfig.cache
